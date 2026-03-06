@@ -1,0 +1,9 @@
+Create a QR based smart attendance system using Spring Boot.
+
+Features:
+- Student login
+- Teacher generates QR code
+- Students scan QR and mark attendance
+- Store attendance in MySQL database
+- Use REST APIs
+- Create entity, repository, service and controller layers
